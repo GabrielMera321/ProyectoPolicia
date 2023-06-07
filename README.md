@@ -52,4 +52,6 @@ Los enlaces para las redadas y los narcóticos son similares.
 # Diagrama de clases del proyecto:
 [Diagrama Antinarcoticos.pdf](https://github.com/GabrielMera321/ProyectoPolicia/files/11671445/Diagrama.Antinarcoticos.pdf)
 
+# Link del video:
+https://www.youtube.com/watch?v=WGZqlsxj1RM
 
